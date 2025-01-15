@@ -127,5 +127,4 @@ npm run dev <test-file>
 ```
 
 ## Author
-**ALX Frontend Cohort**
-
+Donnelly Nyagoha Amaitsa
